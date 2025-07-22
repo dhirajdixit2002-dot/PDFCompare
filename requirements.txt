@@ -1,0 +1,7 @@
+streamlit
+google-cloud-vision==2.7.0
+rapidfuzz
+PyMuPDF
+opencv-python-headless
+pandas
+matplotlib
